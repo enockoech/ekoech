@@ -56,17 +56,15 @@ Applying data science and machine learning to environmental protection, pollutio
 - **International Health Specialist**
 
 <h2>🛠️ Technical Skills:</h2>
-```python
-skills = {
-    "Programming": ["Python", "R", "SQL"],
-    "ML/AI": ["TensorFlow", "Keras", "Scikit-learn", "Neural Networks", "Random Forest"],
-    "Data Analysis": ["Pandas", "NumPy", "Statistical Modeling", "Time Series Analysis"],
-    "Visualization": ["Matplotlib", "Seaborn", "Plotly", "Tableau"],
-    "Tools": ["Git", "Jupyter", "Google Colab", "Docker"],
-    "Domains": ["Environmental Management", "Occupational Safety", "Public Health", 
-                "Food Security", "Maritime Operations", "Pollution Response"]
-}
-```
+
+| Category | Skills |
+|----------|--------|
+| **Programming** | Python, R, SQL |
+| **ML/AI** | TensorFlow, Keras, Scikit-learn, Neural Networks, Random Forest |
+| **Data Analysis** | Pandas, NumPy, Statistical Modeling, Time Series Analysis |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau |
+| **Tools** | Git, Jupyter, Google Colab, Docker, VS Code |
+| **Domains** | Environmental Management, Occupational Safety, Public Health, Food Security, Maritime Operations |
 
 <h2>💼 Military Experience Highlights:</h2>
 
