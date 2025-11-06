@@ -1,4 +1,4 @@
-# Enock Koech - Environmental Data Scientist | Environmental Officer | Machine Learning Engineer
+
 
 <h1>Hi, I'm Enock Koech! <br/><a href="https://github.com/enockoech">Environmental Data Scientist</a>, <a href="https://www.linkedin.com/in/enockoech/">Environmental Manager</a>, <a href="https://github.com/enockoech">Public Health Analyst</a></h1>
 
