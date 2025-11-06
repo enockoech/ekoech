@@ -1,98 +1,138 @@
+# Enock Koech - Environmental Data Scientist | USCG Officer | Machine Learning Engineer
+
 <h1>Hi, I'm Enock Koech! <br/><a href="https://github.com/enockoech">Environmental Data Scientist</a>, <a href="https://www.linkedin.com/in/enockoech/">Environmental Manager</a>, <a href="https://github.com/enockoech">Public Health Analyst</a></h1>
+
+> Environmental Data Scientist | Machine Learning Engineer | USCG LTJG | MS Environmental Health & Safety | Certified Safety Professional | Python | TensorFlow | Public Health Analytics
 
 <h2>🎖️ Current Role:</h2>
 
-**LTJG, U.S. Coast Guard**  
+**Lieutenant Junior Grade (LTJG), U.S. Coast Guard**  
 *Environmental Manager*
 
-Applies data science and machine learning to environmental protection, pollution response, and maritime safety operations.
+Applying data science, machine learning, and Python programming to environmental protection, pollution response, and maritime safety operations. Specializing in occupational health analytics, food security prediction, and epidemiological research.
 
 <h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
 
 - <b>Food Security & Humanitarian Aid Analytics</b>
-  - [Food Crisis Prediction - Advanced Analysis](https://colab.research.google.com/drive/1akgyiR2lFOPT3OLjLTc142vtHkts2x-q)
-    - Extended analysis with additional feature engineering
-    - Logistic regression and random forest implementations
-    - Cross-validation and overfitting prevention techniques
-
-- <b>Military Occupational Health Research</b>
-  - [Missile Community Cancer Study - Data Analysis Support](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
-    - Supporting epidemiological research investigating cancer rates in ICBM communities
-    - Data validation and statistical analysis for multi-year health surveillance study
-    - Protecting health of missile wing personnel across multiple Air Force bases
+  - [Year-Independent Food Insecurity Prediction Using Neural Networks](https://colab.research.google.com/drive/1yXeHPREx0PfNecFJLSrZ_THcswjpFJhU)
+    - **Machine learning model** achieving **92% recall** and **85% precision** for predicting food crises in 21 countries
+    - **Neural network** with iterative hyperparameter optimization using TensorFlow and Keras
+    - Outperformed existing FEWS NET models by **139% in precision**
+    - **Published research** in peer-reviewed AI journal
+    - **Technologies:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
   
-  - [Air Force Environmental Assessment System (EAS)](https://colab.research.google.com/github/enockoech/ecode/blob/master/AF_EAS.ipynb)
-    - Automated environmental assessment data processing and analysis
-    - Python-based tools for occupational exposure tracking
-    - Integration with Air Force environmental health databases
+  - [Food Crisis Prediction - Advanced Feature Engineering](https://colab.research.google.com/drive/1akgyiR2lFOPT3OLjLTc142vtHkts2x-q)
+    - **Feature engineering** with vegetation indices (NDVI), precipitation data (CHIRPS), food price indices
+    - **Machine learning algorithms:** Logistic regression, random forest, neural networks
+    - Cross-validation and regularization for model optimization
+    - **Python libraries:** Scikit-learn, Pandas, Matplotlib
 
-- <b>Environmental Health Data Analytics</b>
-  - [Occupational Exposure Risk Analysis](https://colab.research.google.com/drive/1-rtAdS0hlg8JAqtuwXvgsDSZbLBKZkmg)
-    - Chemical exposure data processing and visualization
-    - Risk assessment algorithms for workplace hazards
-    - Statistical modeling for exposure limit compliance
+- <b>Military Occupational Health & Epidemiological Research</b>
+  - [Missile Community Cancer Study - Statistical Analysis](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
+    - **Epidemiological research** investigating cancer rates in ICBM communities
+    - **Data science** and **statistical analysis** for multi-year health surveillance
+    - **Python data pipelines** for quality control and validation
+    - Protecting health of **9,500+ military personnel**
+  
+  - [Air Force Environmental Assessment System (AF_EAS)](https://colab.research.google.com/github/enockoech/ecode/blob/master/AF_EAS.ipynb)
+    - **Automated data processing** saving **102+ man-hours**
+    - **Python tools** for occupational exposure tracking across 81 industrial facilities
+    - **Data analytics** serving **2.8M DoD members**
+    - Eliminated **60-year data gap** in exposure documentation
+
+- <b>Environmental Health Risk Assessment & Analytics</b>
+  - [Occupational Chemical Exposure Risk Analysis](https://colab.research.google.com/drive/1-rtAdS0hlg8JAqtuwXvgsDSZbLBKZkmg)
+    - **Chemical exposure data analysis** with **2,800+ datapoints** on 22 chemicals
+    - **Risk assessment algorithms** for workplace hazard identification
+    - **Statistical modeling** for OSHA exposure limit compliance using Python
+    - Supporting ototoxin hearing loss research protecting **36K+ workers**
   
   - [Environmental Monitoring Dashboard](https://colab.research.google.com/drive/1Bu9x3CPzmkgrejJLbjRQtqm9H6_HMUcU)
-    - Real-time environmental data analysis and visualization
-    - Air quality, water quality, and soil contamination tracking
-    - Automated reporting for regulatory compliance
+    - **Real-time data visualization** analyzing **411 air/soil/water pollutants**
+    - **Interactive dashboards** using Plotly and Matplotlib
+    - Automated regulatory compliance reporting
+    - **Environmental data science** for USSTRATCOM health intelligence
 
-- <b>Python for Environmental & Public Health</b>
-  - Data pipeline development for environmental surveillance
-  - Automated quality control and validation systems
-  - Statistical analysis for epidemiological studies
-  - Machine learning for predictive health risk assessment
+- <b>Python Programming for Environmental & Public Health</b>
+  - **Data pipeline development** for environmental surveillance systems
+  - **Automated quality control** and validation systems using Python
+  - **Statistical analysis** frameworks for epidemiological studies
+  - **Machine learning models** for predictive health risk assessment
+  - **Python libraries:** Pandas, NumPy, SciPy, Scikit-learn, TensorFlow
 
 <h2>📚 Academic Research & Publications:</h2>
 
-- **To be updated*AI, 2*(2), 244-260.
-  - Lead research demonstrating novel year-agnostic neural network approach
-  - Methodology applicable to humanitarian assistance and disaster response
-  - Featured iterative hyperparameter optimization technique
+- **Christensen, C., Wagner, T., & Langhals, B. (2021).** [Year-Independent Prediction of Food Insecurity Using Classical and Neural Network Machine Learning Methods.](https://doi.org/10.3390/ai2020015) *AI, 2*(2), 244-260.
+  - **Peer-reviewed publication** on machine learning for food security
+  - Novel **neural network approach** for humanitarian assistance planning
+  - **Iterative hyperparameter optimization** methodology
+  - **Keywords:** Machine Learning, Neural Networks, Food Security, Humanitarian Aid, TensorFlow
 
-- **Missile Community Cancer Study** - [Research Analyst](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
-  - Supporting ongoing Air Force epidemiological research
-  - Data validation and statistical analysis for health surveillance
+- **Missile Community Cancer Study** - [Contributing Research Analyst](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
+  - **Epidemiological research** for U.S. Air Force
+  - **Statistical analysis** and **data validation** for health surveillance
 
 <h2>🎓 Education & Certifications:</h2>
 
-- **M.S. Environmental Health & Safety** - University of Wisconsin
-- **B.S. Human Nutrition & Dietetics** - Jomo Kenyatta Univerity
-- **A.S. Bioenvironmental Engineering Technology** - Air University
-- **Graduate Certificate. Data Analytics** - Air Force Institute of Technology
-- **Certified Safety Professional (CSP)**
-- **Multilingual Airman**
+- **Master of Science (M.S.) Environmental Health & Safety** - University of Wisconsin (GPA: 3.60)
+- **Bachelor of Science (B.S.) Human Nutrition & Dietetics** - Jomo Kenyatta University, Kenya (GPA: 3.30)
+- **Associate of Science (A.S.) Bioenvironmental Engineering Technology** - Air University
+- **Graduate Certificate in Data Analytics** - Air Force Institute of Technology (AFIT)
+- **Certified Safety Professional (CSP)** - Board of Certified Safety Professionals
+- **Python Programming Analyst**
+- **Multilingual Professional** (English, Swahili)
 - **International Health Specialist**
 
 <h2>🛠️ Technical Skills & Tools:</h2>
 
 | Category | Skills |
 |----------|--------|
-| **Programming Languages** | Python, R, SQL |
-| **ML/AI Frameworks** | TensorFlow, Keras, Scikit-learn, Neural Networks, Random Forest, Logistic Regression |
-| **Data Analysis** | Pandas, NumPy, SciPy, Statistical Modeling, Time Series Analysis, Feature Engineering |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau, Interactive Dashboards |
-| **Development Tools** | Git/GitHub, Jupyter Notebooks, Google Colab, Docker, VS Code |
-| **Domain Expertise** | Environmental Management, Occupational Health & Safety, Public Health Surveillance, Food Security Analytics, Maritime Environmental Protection, Pollution Response, Epidemiological Research |
+| **Programming Languages** | Python, R, SQL, Bash |
+| **Machine Learning & AI** | TensorFlow, Keras, Scikit-learn, Neural Networks, Random Forest, Logistic Regression, Deep Learning |
+| **Data Science & Analysis** | Pandas, NumPy, SciPy, Statistical Modeling, Time Series Analysis, Feature Engineering, Data Mining |
+| **Data Visualization** | Matplotlib, Seaborn, Plotly, Tableau, Interactive Dashboards, D3.js |
+| **Development Tools** | Git, GitHub, Jupyter Notebooks, Google Colab, Docker, VS Code, Anaconda |
+| **Cloud & Databases** | Google Cloud Platform, AWS, PostgreSQL, MySQL, MongoDB |
+| **Domain Expertise** | Environmental Data Science, Occupational Health Analytics, Public Health Surveillance, Food Security Prediction, Maritime Environmental Protection, Pollution Response, Epidemiological Research, Risk Assessment |
 
-<h2>💼 Professional Experience Highlights:</h2>
+<h2>💼 Professional Experience:</h2>
 
-**U.S. Coast Guard** - *Current*
-- **LTJG** - Environmental Manager
+**U.S. Coast Guard** | *2024 - Present*
+- **Lieutenant Junior Grade (LTJG)** - Environmental Manager
+- Direct Commission Environmental Management Program
+- **Data-driven environmental protection** and pollution response
+- **Machine learning applications** for maritime safety
 
-**U.S. Air Force** - *2017-2025*
+**U.S. Air Force** | *2017 - 2024*
 
-*Environmental & Occupational Health Consultant*  
+**Environmental & Occupational Health Consultant**  
+USAFSAM, School of Aerospace Medicine, Dayton, OH (Jan 2023 - Dec 2023)
+- Technical guidance for **2.8M DoD members**
+- Led team creating **5 data validation tools** (Python, Pandas)
+- Managed **$214M data repository**
+- **Data analytics** for ototoxin study (**2.8K datapoints**, 22 chemicals)
 
-*Officer in Charge, Environmental Health & Operations Element*  
+**NCOIC, Environmental Health & Operations Element**  
+Offutt AFB, NE (Nov 2021 - Dec 2022)
+- **Water quality analytics**: 132M gallons certified for 15K personnel
+- **Data-driven equipment auditing**: $13.4K cost savings
+- **Occupational health analytics**: 54 workplaces, 267 personnel protected
 
-*Lead, Readiness Plans & Operations Element
+**NCOIC, Readiness Plans & Operations**  
+Offutt AFB, NE (Dec 2020 - Oct 2021)
+- **Environmental data analysis**: 411 pollutants for USSTRATCOM
+- Led **15-member analytics team**
+- **Risk assessment** preventing $270K in OSHA findings
 
-*Bioenvironmental Engineering Technician*  
+**Bioenvironmental Engineering Technician**  
+Offutt AFB, NE (Oct 2017 - Nov 2020)
+- **Aeromedical evacuation** across 12 countries (64 patients)
+- **Preventative medicine analytics**: 56 casefiles
+- **Exposure investigation data management**: 38 cases, 15K population
 
-<h2>🏆 Recognition & Awards:</h2>
+<h2>🏆 Military Awards & Recognition:</h2>
 
-- Air Force Meritorious Med
+- Air Force Meritorious Service Medal
 - Air Force Achievement Medal
 - Air and Space Achievement Medal  
 - NCO of the Quarter (3x)
@@ -101,62 +141,76 @@ Applies data science and machine learning to environmental protection, pollution
 - Humanitarian Service Medal
 - Nuclear Deterrence Operations Service Medal
 - Global War on Terrorism Service Medal
+- Air Force Good Conduct Medal
 
-<h2>💡 Professional Impact by the Numbers:</h2>
+<h2>💡 Professional Impact - Key Metrics:</h2>
 
 | Metric | Impact |
 |--------|--------|
-| DoD Members Protected | 2.8M |
-| Data Repository Value | $214M |
-| Exposure Assessments Documented | 12K |
-| Personnel Directly Protected | 15K+ |
-| Water Quality Certified | 132M gallons |
-| Man-Hours Saved (Automation) | 150+ |
-| Countries Supported (AE Missions) | 12 |
-| High-Priority Patients Evacuated | 64 |
+| **DoD Members Protected** | 2.8M |
+| **Environmental Data Repository** | $214M |
+| **Exposure Assessments** | 12K |
+| **Personnel Protected** | 15K+ |
+| **Water Quality Certified** | 132M gallons |
+| **Automation Savings** | 150+ man-hours |
+| **Countries Supported** | 12 |
+| **Patients Evacuated** | 64 |
+| **ML Model Recall** | 92% |
+| **ML Model Precision** | 85% |
+| **Performance Improvement** | 139% over baseline |
 
-<h2>🌍 Community Service & Leadership:</h2>
+<h2>🌍 Community Service & Volunteer Work:</h2>
 
 - **STEM Tutor** - Varsity Tutors (2023-Present)
-  - One-on-one virtual tutoring in organic chemistry, mathematics, and biology
-  - Supporting college students in STEM education
+  - Virtual tutoring in **organic chemistry, mathematics, biology**
+  - Supporting college **STEM education**
   
 - **Resiliency Crisis Counselor** (2018-2022)
-  - Crisis intervention and emotional support via phone, text, and chat
-  - Mental health support for individuals in crisis
+  - **Mental health support** and crisis intervention
+  - Phone, text, and chat counseling services
   
-- **Community Health Coordinator** - Tenwek Hospital, Kenya
-  - Led preventative care and maternal health initiatives
-  - Infectious disease prevention in rural communities
+- **Community Health Coordinator** - Tenwek Hospital, Kenya (2014-2015)
+  - **Public health initiatives**: preventative care, maternal health
+  - **Infectious disease prevention** in rural communities
 
-<h2>🔬 Research Interests:</h2>
+<h2>🔬 Research Interests & Expertise:</h2>
 
-- Machine Learning for Environmental Compliance & Risk Assessment
-- Occupational Health Surveillance & Epidemiology
-- Maritime Environmental Protection & Pollution Response
-- Climate Change Impact on Food Systems
-- Public Health Data Science & Biostatistics
-- Predictive Analytics for Food Security & Humanitarian Response
+- **Machine Learning for Environmental Compliance** and Risk Assessment
+- **Predictive Analytics** for Food Security and Humanitarian Response
+- **Occupational Health Data Science** and Epidemiology
+- **Maritime Environmental Protection** and Pollution Response Analytics
+- **Climate Change Impact** on Food Systems and Public Health
+- **Deep Learning** for Health Surveillance
+- **Geospatial Analysis** and Time Series Forecasting
 
-<h2>📊 Current Leaning:</h2>
+<h2>📊 Current Learning & Development:</h2>
 
-- Advanced Deep Learning Architectures
-- Geospatial Analysis for Environmental Monitoring
-- Time Series Forecasting for Environmental Trends
-- Explainable AI (XAI) for Regulatory Compliance
-- Big Data Processing for Health Surveillance
+- **Advanced Deep Learning** Architectures (CNNs, RNNs, Transformers)
+- **Geospatial Data Science** for Environmental Monitoring
+- **Time Series Forecasting** for Environmental Trends
+- **Explainable AI (XAI)** for Regulatory Compliance
+- **Big Data Processing** for Health Surveillance (Spark, Hadoop)
+- **MLOps** and Model Deployment
 
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Enock Koech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Enock Koech | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Enock Koech | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Enock Koech | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][scholar]
 
 [linkedin]: https://linkedin.com/in/enockoech
 [github]: https://github.com/enockoech
 [email]: mailto:enockoech@gmail.com
+[scholar]: https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
 
 <br />
+
+---
+
+## 🔍 Keywords & Topics
+
+`Machine Learning` `Data Science` `Python` `TensorFlow` `Environmental Science` `Public Health` `Food Security` `Neural Networks` `Occupational Health` `Epidemiology` `Statistical Analysis` `Data Analytics` `Environmental Protection` `Military` `Coast Guard` `Air Force` `Risk Assessment` `Predictive Modeling` `Deep Learning` `Data Visualization` `Pandas` `NumPy` `Scikit-learn` `Keras` `Research` `Published Author` `Humanitarian Aid` `Climate Change` `Maritime Safety`
 
 ---
 
@@ -169,7 +223,9 @@ Applies data science and machine learning to environmental protection, pollution
 </p>
 
 <!--
-🌊 USCG Officer | 🔬 Environmental Data Scientist | 🎓 MS Environmental Health & Safety | 🏅 CSP | 📊 Python Analyst
+🌊 USCG Officer | 🔬 Environmental Data Scientist | 🎓 MS Environmental Health & Safety | 🏅 CSP | 📊 Python Analyst | Machine Learning Engineer | TensorFlow Developer | Published AI Researcher
+
+SEO Keywords: environmental data scientist, machine learning engineer, python developer, tensorflow, food security prediction, occupational health analytics, public health data science, epidemiological research, neural networks, data visualization, environmental protection, coast guard officer, air force veteran, certified safety professional, published researcher
 
 Current Focus Areas:
 - Environmental Management & Machine Learning
@@ -177,4 +233,5 @@ Current Focus Areas:
 - Food Security & Climate Change Modeling
 - Occupational Health Data Science
 - Epidemiological Research Support
+- Deep Learning Applications
 -->
