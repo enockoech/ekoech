@@ -2,10 +2,10 @@
 
 <h2>🎖️ Current Role:</h2>
 
-**Lieutenant Junior Grade (LTJG), U.S. Coast Guard**  
+**LTJG, U.S. Coast Guard**  
 *Environmental Manager*
 
-Applying data science and machine learning to environmental protection, pollution response, and maritime safety operations.
+Applies data science and machine learning to environmental protection, pollution response, and maritime safety operations.
 
 <h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
 
@@ -51,22 +51,23 @@ Applying data science and machine learning to environmental protection, pollutio
 
 <h2>📚 Academic Research & Publications:</h2>
 
-- **Christensen, C., Wagner, T., & Langhals, B. (2021).** [Year-Independent Prediction of Food Insecurity Using Classical and Neural Network Machine Learning Methods.](https://doi.org/10.3390/ai2020015) *AI, 2*(2), 244-260.
+- **To be updated*AI, 2*(2), 244-260.
   - Lead research demonstrating novel year-agnostic neural network approach
   - Methodology applicable to humanitarian assistance and disaster response
   - Featured iterative hyperparameter optimization technique
 
-- **Missile Community Cancer Study** - [Contributing Analyst](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
+- **Missile Community Cancer Study** - [Research Analyst](https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/)
   - Supporting ongoing Air Force epidemiological research
   - Data validation and statistical analysis for health surveillance
 
 <h2>🎓 Education & Certifications:</h2>
 
-- **M.S. Environmental Health & Safety** - University of Wisconsin (GPA: 3.60)
-- **B.S. Human Nutrition & Dietetics** - Jomo Kenyatta University, Kenya (GPA: 3.30)
+- **M.S. Environmental Health & Safety** - University of Wisconsin
+- **B.S. Human Nutrition & Dietetics** - Jomo Kenyatta Univerity
 - **A.S. Bioenvironmental Engineering Technology** - Air University
+- **Graduate Certificate. Data Analytics** - Air Force Institute of Technology
 - **Certified Safety Professional (CSP)**
-- **Python Programming Analyst**
+- **Multilingual Airman**
 - **International Health Specialist**
 
 <h2>🛠️ Technical Skills & Tools:</h2>
