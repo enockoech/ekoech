@@ -84,36 +84,18 @@ Applies data science and machine learning to environmental protection, pollution
 <h2>💼 Professional Experience Highlights:</h2>
 
 **U.S. Coast Guard** - *Current*
-- **Lieutenant Junior Grade (LTJG)** - Environmental Manager
-- Direct Commission Environmental Management Program
-- Applying data science to maritime environmental protection
+- **LTJG** - Environmental Manager
 
-**U.S. Air Force** - *2017-2023*
+
+**U.S. Air Force** - *2017-2025*
 
 *Environmental & Occupational Health Consultant*  
-USAFSAM, School of Aerospace Medicine, Dayton, OH (Jan 2023 - Dec 2023)
-- Authored technical/policy guidance documents for 2.8M DoD members
-- Led team of 12 creating 5 data validation tools documenting 12K exposure results
-- Managed $214M AF-level data repository
-- Supported 18-month ototoxin study with 2.8K datapoints on 22 chemicals
 
-*NCOIC, Environmental Health & Operations Element*  
-Offutt AFB, NE (Nov 2021 - Dec 2022)
-- Coordinated 35 water sampling operations certifying 132M gallons for 15K personnel
-- Audited $225K emergency medical equipment, saving $13.4K
-- Inspected 54 workplaces, identified 103 hazards, protected 267 persons
+*Officer in Charge, Environmental Health & Operations Element*  
 
-*NCOIC, Readiness Plans & Operations Element*  
-Offutt AFB, NE (Dec 2020 - Oct 2021)
-- Designed USSTRATCOM health reports analyzing 411 air/soil/water pollutants
-- Guided 15-member team advising 39 commanders on OEH for 81 shops
-- Managed $623K critical equipment, prevented $270K in potential OSHA findings
+*Lead, Readiness Plans & Operations Element
 
 *Bioenvironmental Engineering Technician*  
-Offutt AFB, NE (Oct 2017 - Nov 2020)
-- Led 8 Aeromedical Evacuation Missions across 12 countries
-- Directed preventative medicine programs with 56 casefiles
-- Managed 38 post-exposure investigations for 15K population
 
 <h2>🏆 Recognition & Awards:</h2>
 
@@ -138,9 +120,6 @@ Offutt AFB, NE (Oct 2017 - Nov 2020)
 | Man-Hours Saved (Automation) | 102+ |
 | Countries Supported (AE Missions) | 12 |
 | High-Priority Patients Evacuated | 64 |
-| Food Crisis Prediction Recall | 92% |
-| Model Precision | 85% |
-| Improvement Over Prior Models | 139% (precision) |
 
 <h2>🌍 Community Service & Leadership:</h2>
 
@@ -152,7 +131,7 @@ Offutt AFB, NE (Oct 2017 - Nov 2020)
   - Crisis intervention and emotional support via phone, text, and chat
   - Mental health support for individuals in crisis
   
-- **Community Health Coordinator** - Tenwek Hospital, Kenya (2014-2015)
+- **Community Health Coordinator** - Tenwek Hospital, Kenya
   - Led preventative care and maternal health initiatives
   - Infectious disease prevention in rural communities
 
