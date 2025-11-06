@@ -10,12 +10,6 @@ Applies data science and machine learning to environmental protection, pollution
 <h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
 
 - <b>Food Security & Humanitarian Aid Analytics</b>
-  - [Year-Independent Food Insecurity Prediction Using Neural Networks](https://colab.research.google.com/drive/1yXeHPREx0PfNecFJLSrZ_THcswjpFJhU)
-    - Neural network models achieving 92% recall and 85% precision for predicting food crises in 21 countries
-    - Novel iterative multidimensional hyperparameter search methodology
-    - Outperformed existing FEWS NET models by 139% in precision and 68% in f1 score
-    - Published in peer-reviewed AI journal
-  
   - [Food Crisis Prediction - Advanced Analysis](https://colab.research.google.com/drive/1akgyiR2lFOPT3OLjLTc142vtHkts2x-q)
     - Extended analysis with additional feature engineering
     - Logistic regression and random forest implementations
@@ -86,7 +80,6 @@ Applies data science and machine learning to environmental protection, pollution
 **U.S. Coast Guard** - *Current*
 - **LTJG** - Environmental Manager
 
-
 **U.S. Air Force** - *2017-2025*
 
 *Environmental & Occupational Health Consultant*  
@@ -99,6 +92,7 @@ Applies data science and machine learning to environmental protection, pollution
 
 <h2>🏆 Recognition & Awards:</h2>
 
+- Air Force Meritorious Med
 - Air Force Achievement Medal
 - Air and Space Achievement Medal  
 - NCO of the Quarter (3x)
@@ -117,7 +111,7 @@ Applies data science and machine learning to environmental protection, pollution
 | Exposure Assessments Documented | 12K |
 | Personnel Directly Protected | 15K+ |
 | Water Quality Certified | 132M gallons |
-| Man-Hours Saved (Automation) | 102+ |
+| Man-Hours Saved (Automation) | 150+ |
 | Countries Supported (AE Missions) | 12 |
 | High-Priority Patients Evacuated | 64 |
 
@@ -138,13 +132,13 @@ Applies data science and machine learning to environmental protection, pollution
 <h2>🔬 Research Interests:</h2>
 
 - Machine Learning for Environmental Compliance & Risk Assessment
-- Predictive Analytics for Food Security & Humanitarian Response
 - Occupational Health Surveillance & Epidemiology
 - Maritime Environmental Protection & Pollution Response
 - Climate Change Impact on Food Systems
 - Public Health Data Science & Biostatistics
+- Predictive Analytics for Food Security & Humanitarian Response
 
-<h2>📊 Current Learning & Development:</h2>
+<h2>📊 Current Leaning:</h2>
 
 - Advanced Deep Learning Architectures
 - Geospatial Analysis for Environmental Monitoring
