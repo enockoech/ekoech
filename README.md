@@ -1,4 +1,4 @@
-# Enock Koech - Environmental Data Scientist | USCG Officer | Machine Learning Engineer
+# Enock Koech - Environmental Data Scientist | Environmental Officer | Machine Learning Engineer
 
 <h1>Hi, I'm Enock Koech! <br/><a href="https://github.com/enockoech">Environmental Data Scientist</a>, <a href="https://www.linkedin.com/in/enockoech/">Environmental Manager</a>, <a href="https://github.com/enockoech">Public Health Analyst</a></h1>
 
@@ -97,13 +97,13 @@ Applying data science, machine learning, and Python programming to environmental
 
 <h2>💼 Professional Experience:</h2>
 
-**U.S. Coast Guard** | *2024 - Present*
+**U.S. Coast Guard** | *2025 - Present*
 - **Lieutenant Junior Grade (LTJG)** - Environmental Manager
 - Direct Commission Environmental Management Program
 - **Data-driven environmental protection** and pollution response
 - **Machine learning applications** for maritime safety
 
-**U.S. Air Force** | *2017 - 2024*
+**U.S. Air Force** | *2017 - 2025*
 
 **Environmental & Occupational Health Consultant**  
 USAFSAM, School of Aerospace Medicine, Dayton, OH (Jan 2023 - Dec 2023)
@@ -155,9 +155,6 @@ Offutt AFB, NE (Oct 2017 - Nov 2020)
 | **Automation Savings** | 150+ man-hours |
 | **Countries Supported** | 12 |
 | **Patients Evacuated** | 64 |
-| **ML Model Recall** | 92% |
-| **ML Model Precision** | 85% |
-| **Performance Improvement** | 139% over baseline |
 
 <h2>🌍 Community Service & Volunteer Work:</h2>
 
@@ -173,14 +170,14 @@ Offutt AFB, NE (Oct 2017 - Nov 2020)
   - **Public health initiatives**: preventative care, maternal health
   - **Infectious disease prevention** in rural communities
 
-<h2>🔬 Research Interests & Expertise:</h2>
+<h2>🔬 Research Interests & Domains:</h2>
 
 - **Machine Learning for Environmental Compliance** and Risk Assessment
-- **Predictive Analytics** for Food Security and Humanitarian Response
 - **Occupational Health Data Science** and Epidemiology
 - **Maritime Environmental Protection** and Pollution Response Analytics
 - **Climate Change Impact** on Food Systems and Public Health
 - **Deep Learning** for Health Surveillance
+- **Predictive Analytics** for Food Security and Humanitarian Response
 - **Geospatial Analysis** and Time Series Forecasting
 
 <h2>📊 Current Learning & Development:</h2>
@@ -223,7 +220,7 @@ Offutt AFB, NE (Oct 2017 - Nov 2020)
 </p>
 
 <!--
-🌊 USCG Officer | 🔬 Environmental Data Scientist | 🎓 MS Environmental Health & Safety | 🏅 CSP | 📊 Python Analyst | Machine Learning Engineer | TensorFlow Developer | Published AI Researcher
+🌊 USCG Officer|AI/ML in Occupational & Environmental Health | 🔬 Environmental Data Scientist | 🎓 MS Environmental Health & Safety | 🏅 CSP | 📊 Python Analyst | Machine Learning Engineer | TensorFlow Developer | Published AI Researcher
 
 SEO Keywords: environmental data scientist, machine learning engineer, python developer, tensorflow, food security prediction, occupational health analytics, public health data science, epidemiological research, neural networks, data visualization, environmental protection, coast guard officer, air force veteran, certified safety professional, published researcher
 
