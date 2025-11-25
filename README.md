@@ -41,7 +41,7 @@ Applying data science, machine learning, and Python programming to environmental
     - Eliminated **60-year data gap** in exposure documentation
 
 - <b>Environmental Health Risk Assessment & Analytics</b>
-  - [Occupational Chemical Exposure Risk Analysis](https://colab.research.google.com/drive/1-rtAdS0hlg8JAqtuwXvgsDSZbLBKZkmg)
+  - [Occupational Chemical Exposure Risk Analysis]()
     - **Chemical exposure data analysis** with **2,800+ datapoints** on 22 chemicals
     - **Risk assessment algorithms** for workplace hazard identification
     - **Statistical modeling** for OSHA exposure limit compliance using Python
